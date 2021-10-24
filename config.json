@@ -1,0 +1,24 @@
+{
+    "ownerNumber": "6282322153431@s.whatsapp.net",
+    "ownerName": "KIRA - MASTER",
+    "limitCount": 20,
+    "gamewaktu": 60,
+    "botName": "GENERAL BOTZ",
+    "pathImg": "./media/Itsuki.jpg",
+    "apikey": "zeeoneofc",
+    "fake": "GENERAL BOTZ VERIFIED",
+    "sesidInsta": "default",
+    "sessionName": "aqulzz",
+    "txtDonasi": "GOPAY : 082322153431\nSaweeria :https://saweria.co/fauzimatsukio\nPulsa : 082322153431",
+    "gcount": {
+        "prem": 40,
+        "user": 20
+    },
+    "emote":{
+        "free": "◽",
+        "owner": "◾",
+        "limit": "🔸",
+        "glimit": "🔹",
+        "prem": "💰"
+    }
+}
